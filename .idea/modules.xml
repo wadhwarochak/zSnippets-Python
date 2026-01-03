@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Automation-Utilities-In-Python/.idea/Automation-Utilities-In-Python.iml" filepath="$PROJECT_DIR$/../Automation-Utilities-In-Python/.idea/Automation-Utilities-In-Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zSnippets-Python.iml" filepath="$PROJECT_DIR$/.idea/zSnippets-Python.iml" />
     </modules>
   </component>
